@@ -23,6 +23,8 @@ Conceitos Abordados:
 - Propriedades
 - Componentização
 
+---
+
 - [Tenha o projeto finalizado clicando aqui! ](https://github.com/eurcvf/todolist)
 
 ---
